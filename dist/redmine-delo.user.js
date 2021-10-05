@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Redmine to Planfix
 // @author       popstas
-// @namespace    1mi.ru
+// @namespace    1mediainvest.ru
 // @version        0.0.1
 // @description  Redmine to Planfix
 // @author       popstas
 // @match        http://delo.uramedia.ru/*
 // @grant        GM_addStyle
-// @updateURL    https://raw.githubusercontent.com/1mi/userscript-redmine-delo/master/dist/redmine-delo.user.js
+// @updateURL    https://raw.githubusercontent.com/1mediainvest/userscript-redmine-delo/master/dist/redmine-delo.user.js
 // ==/UserScript==
 /**
  * @param {Object} window.unsafeWindow window
