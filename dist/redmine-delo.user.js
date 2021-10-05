@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Redmine to Planfix
+// @name         Redmine to Planfix styles
 // @author       popstas
 // @namespace    1mediainvest.ru
-// @version        0.0.1
+// @version        0.1.0
 // @description  Redmine to Planfix
 // @author       popstas
 // @match        http://delo.uramedia.ru/*

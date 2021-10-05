@@ -1,6 +1,6 @@
 {
   "name": "userscript-redmine-delo",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Redmine to Planfix styles",
   "scripts": {
     "version": "npm run build && npm run changelog && git add CHANGELOG.md dist/redmine-delo.user.js",
