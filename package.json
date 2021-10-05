@@ -1,0 +1,17 @@
+{
+  "name": "userscript-redmine-delo",
+  "version": "0.0.1",
+  "description": "Redmine to Planfix styles",
+  "scripts": {
+    "version": "npm run build && npm run changelog && git add CHANGELOG.md dist/redmine-delo.user.js",
+    "postversion": "git push && npm run release",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+    "release": "conventional-github-releaser -p angular",
+    "build": "bash scripts/build.sh"
+  },
+  "author": "Stanislav Popov",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^1.10.27"
+  }
+}
